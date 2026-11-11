@@ -1,5 +1,5 @@
 // import { useEffect, useState } from "react";
-import SearchInput from "../components/SearchInput";
+import SearchInput from "../components/Searchinput";
 import RegionMenu from "../components/RegionMenu";
 import CountryList from "../components/CountryList";
 import ShowMessage from "../components/ShowMessage";
