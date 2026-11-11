@@ -1,5 +1,5 @@
 import Home from "./pages/Home";
-import Layout from "./pages/Layout";
+import Layout from "./pages/layout";
 import NoPage from "./pages/NoPage";
 import Country from "./pages/Country";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
